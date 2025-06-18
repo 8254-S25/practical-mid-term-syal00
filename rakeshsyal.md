@@ -158,11 +158,10 @@ sudo apt-get install filezilla -y
 
 
 
--
 
 
 
 
 
 
-Rename the file to `yourname.md` where yourname is the concatenation of your first name and last name. Then upload the file to GitHub.
+
